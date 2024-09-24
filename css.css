@@ -1,0 +1,25 @@
+p {
+    color:aliceblue;
+    width: 500px;
+    border: 1 px solid blueviolet;
+}
+.s {
+    justify-content: center;
+}
+.iii {
+    display: flex;
+    justify-content: center;
+    border: 2px solid deeppink;
+}
+.aaa {
+    color: aliceblue;
+}
+.qwerty {
+    background-color: deeppink;
+}
+.ytrewq {
+    background-color: aliceblue;
+}
+.qwe {
+    background-color: aliceblue;
+}
